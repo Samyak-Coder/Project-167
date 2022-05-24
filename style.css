@@ -1,0 +1,17 @@
+.arjs-loader{
+    height: 100%;
+    width: 100; 
+    position: absolute;
+    top: 0;
+    background-color: black;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.arjs-loader div {
+    text-align: cetner;
+    color: white;
+    font-size: 1.25em;
+}
